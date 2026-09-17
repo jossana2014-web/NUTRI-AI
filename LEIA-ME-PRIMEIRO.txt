@@ -1,0 +1,21 @@
+NUTRI-AI
+
+1. Descompacte esta pasta.
+2. Abra a pasta NUTRI-AI inteira em sua IDE.
+3. Cole os cardápios na pasta Cardápios.
+4. Faça a pergunta ao agente de IA da IDE.
+5. O SAFRA-AI-v1.0 usa o Orchestrator para acionar somente os agentes necessários.
+
+Estrutura:
+NUTRI-AI/
+├── Cardápios/
+├── Arquivos Temporários/
+└── SAFRA-AI-v1.0/
+
+A pasta Cardápios é entregue vazia.
+Todos os arquivos criados durante o trabalho devem ficar em Arquivos Temporários.
+ATALHO DE PERGUNTAS
+
+Sempre que digitar [1] no chat do agente para ver o catálogo completo de perguntas. Depois,
+envie o número de uma pergunta ou escreva sua própria pergunta. Ao responder, o
+SAFRA mostrará de 2 a 3 perguntas relacionadas para você continuar a análise.

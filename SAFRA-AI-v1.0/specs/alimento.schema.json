@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "texto_original",
+    "nome_normalizado"
+  ],
+  "properties": {
+    "texto_original": {
+      "type": "string"
+    },
+    "nome_normalizado": {
+      "type": "string"
+    },
+    "grupo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "forma": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "CARDAPIOS",
+      "path": "../Cardapios"
+    },
+    {
+      "name": "SAFRA-AI",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder:SAFRA-AI}\\.venv\\Scripts\\python.exe"
+  }
+}

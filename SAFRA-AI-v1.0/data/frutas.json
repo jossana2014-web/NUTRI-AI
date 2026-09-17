@@ -1,0 +1,57 @@
+[
+  {
+    "nome": "abacaxi",
+    "sinonimos": []
+  },
+  {
+    "nome": "acerola",
+    "sinonimos": []
+  },
+  {
+    "nome": "banana",
+    "sinonimos": [
+      "banana prata",
+      "banana-prata"
+    ]
+  },
+  {
+    "nome": "goiaba",
+    "sinonimos": []
+  },
+  {
+    "nome": "laranja",
+    "sinonimos": []
+  },
+  {
+    "nome": "mamão",
+    "sinonimos": [
+      "mamao"
+    ]
+  },
+  {
+    "nome": "manga",
+    "sinonimos": []
+  },
+  {
+    "nome": "mangaba",
+    "sinonimos": []
+  },
+  {
+    "nome": "melancia",
+    "sinonimos": []
+  },
+  {
+    "nome": "melão",
+    "sinonimos": [
+      "melao"
+    ]
+  },
+  {
+    "nome": "murici",
+    "sinonimos": []
+  },
+  {
+    "nome": "caju",
+    "sinonimos": []
+  }
+]

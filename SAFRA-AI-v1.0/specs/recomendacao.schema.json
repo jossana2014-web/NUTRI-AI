@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "problema": {
+      "type": "string"
+    },
+    "alternativas": {
+      "type": "array"
+    },
+    "justificativa": {
+      "type": "string"
+    }
+  }
+}

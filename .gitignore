@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Ferramentas e dependências locais
+.pdfdeps/
+
+# Arquivos temporários gerados durante análises
+Arquivos Temporários/
+
+# Ambiente e editor
+.env
+.vscode/
+.idea/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store

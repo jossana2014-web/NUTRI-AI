@@ -1,0 +1,200 @@
+Perguntas que posso fazer
+
+1. Análise geral do cardápio
+
+1.  Analise os cardápios.
+2.  Faça uma análise completa dos cardápios.
+3.  Analise todos os arquivos da pasta Cardápios.
+4.  O que você encontrou nesses cardápios?
+5.  Faça um diagnóstico geral dos cardápios.
+6.  Identifique problemas nos cardápios.
+7.  Mostre os principais pontos de atenção.
+8.  Mostre os aspectos positivos e os problemas encontrados.
+9.  Analise o cardápio de abril.
+10. Analise somente a primeira semana de maio.
+11. Faça uma análise mês a mês.
+
+2. Frutas
+
+12. Analise somente as frutas.
+13. Quais frutas aparecem nos cardápios?
+14. Liste todas as frutas utilizadas.
+15. Quantas frutas diferentes foram oferecidas?
+16. Qual fruta aparece mais?
+17. Qual fruta aparece menos?
+18. Quantas vezes cada fruta aparece?
+19. Existem frutas repetidas?
+20. Quais frutas se repetem?
+21. Em quais dias a banana foi oferecida?
+22. Quantas vezes foi oferecido mamão?
+23. Quais frutas aparecem em dias consecutivos?
+24. Mostre a frequência de cada fruta.
+25. Qual é a diversidade de frutas do mês?
+26. Compare a variedade de frutas entre os meses.
+
+3. Diversidade alimentar
+
+27. Analise a diversidade alimentar.
+28. O cardápio está diversificado?
+29. Quais alimentos estão sendo muito repetidos?
+30. Quais preparações aparecem com maior frequência?
+31. Existem refeições muito semelhantes?
+32. Quais grupos alimentares apresentam pouca variedade?
+33. Analise a variedade de frutas.
+34. Analise a variedade de legumes e verduras.
+35. Analise a variedade das fontes proteicas.
+36. Mostre repetições consecutivas.
+37. Identifique padrões de repetição.
+38. Quais alimentos dominam o cardápio?
+39. Calcule indicadores de diversidade.
+40. Compare a diversidade entre as semanas.
+
+4. Comparações
+
+41. Compare março e abril.
+42. Compare os cardápios de abril e maio.
+43. Qual mês apresentou maior diversidade?
+44. Compare a variedade de frutas entre março e maio.
+45. Compare as fontes proteicas dos dois períodos.
+46. O que mudou de março para abril?
+47. Quais alimentos aparecem nos dois meses?
+48. Quais alimentos aparecem somente em abril?
+49. Qual período teve mais repetições?
+50. Compare as semanas do mês.
+51. Compare todos os cardápios disponíveis.
+52. Faça uma análise evolutiva dos cardápios.
+53. Mostre quais indicadores melhoraram ou pioraram.
+
+5. PNAE e conformidade normativa
+
+54. Analise os cardápios segundo o PNAE.
+55. Verifique a conformidade dos cardápios.
+56. Este cardápio atende às regras do PNAE?
+57. Quais critérios do PNAE podem ser verificados neste cardápio?
+58. Existem possíveis não conformidades?
+59. Mostre somente as não conformidades.
+60. Mostre os critérios atendidos.
+61. Mostre os critérios não atendidos.
+62. Quais requisitos não podem ser verificados apenas pelo cardápio?
+63. Qual legislação foi utilizada na análise?
+64. Qual regra fundamenta este alerta?
+65. Mostre a norma e o dispositivo utilizados.
+66. Explique por que você classificou este item como não conforme.
+67. Verifique qual legislação estava vigente na data deste cardápio.
+68. Não aplique normas posteriores ao período do cardápio.
+69. Gere um relatório de conformidade.
+
+6. Análise nutricional
+
+70. Faça uma análise nutricional dos cardápios.
+71. Analise os valores nutricionais disponíveis.
+72. Compare os nutrientes entre as semanas.
+73. Analise energia e macronutrientes.
+74. Analise proteínas.
+75. Analise fibras.
+76. Analise cálcio.
+77. Analise ferro.
+78. Analise vitamina A.
+79. Analise vitamina C.
+80. Analise sódio.
+81. Quais nutrientes apresentam maior variação?
+82. Compare os valores nutricionais de março e abril.
+83. Mostre somente os indicadores nutricionais que podem ser calculados
+    com segurança.
+84. Diga quais análises nutricionais não podem ser realizadas por falta
+    de dados.
+
+7. Sazonalidade
+
+85. Analise a sazonalidade das frutas.
+86. As frutas utilizadas são da estação?
+87. Quais frutas estão na safra neste período?
+88. Quais frutas do cardápio estão fora do período de maior oferta?
+89. Analise a sazonalidade considerando Palmas-TO.
+90. Analise considerando a sazonalidade do Tocantins.
+91. Quais frutas da estação poderiam ser utilizadas?
+92. Sugira frutas sazonais para abril.
+93. Compare o cardápio com o calendário de sazonalidade.
+94. Quais substituições aumentariam o uso de frutas sazonais?
+
+8. Agricultura familiar
+
+95. Analise os indicadores relacionados à agricultura familiar.
+96. Quais informações sobre agricultura familiar existem nos documentos?
+97. É possível verificar a participação da agricultura familiar?
+98. Quais alimentos podem ser relacionados aos dados de aquisição
+    fornecidos?
+99. Quais informações faltam para verificar a agricultura familiar?
+100. Cruze o cardápio com os dados de aquisição.
+101. Mostre o que pode e o que não pode ser comprovado.
+102. Não faça inferências sobre agricultura familiar sem documentação de
+     aquisição.
+
+9. Recomendações
+
+103. O que poderia ser melhorado neste cardápio?
+104. Faça recomendações para melhorar a diversidade.
+105. Sugira alternativas para os alimentos mais repetidos.
+106. Sugira substituições para as frutas mais repetidas.
+107. Sugira frutas da estação.
+108. Sugira alternativas regionais.
+109. Como reduzir a repetição sem diminuir a diversidade nutricional?
+110. Sugira alterações considerando sazonalidade.
+111. Quais mudanças você recomendaria ao nutricionista?
+112. Apresente três alternativas para cada ponto de atenção.
+113. Não altere o cardápio; apenas apresente sugestões.
+114. Justifique cada recomendação.
+115. Informe quais critérios foram considerados em cada recomendação.
+
+10. Perguntas investigativas
+
+116. Existe algum padrão que merece atenção?
+117. Encontre padrões de repetição.
+118. Procure inconsistências nos cardápios.
+119. Existem informações contraditórias?
+120. Encontre valores atípicos.
+121. Existem diferenças importantes entre as semanas?
+122. Quais resultados merecem investigação do nutricionista?
+123. Quais informações parecem incompletas?
+124. Quais dados não puderam ser interpretados?
+125. Mostre possíveis erros de extração.
+126. Quais conclusões apresentam menor qualidade de evidência?
+127. O que você não consegue concluir a partir desses documentos?
+
+11. Auditoria da própria IA
+
+128. Audite sua análise.
+129. Confira novamente os resultados.
+130. Verifique se os cálculos estão corretos.
+131. Verifique se alguma conclusão não está sustentada pelos documentos.
+132. Mostre a evidência para cada conclusão.
+133. Mostre de qual arquivo saiu cada informação.
+134. Verifique se alguma recomendação foi apresentada como obrigação.
+135. Verifique se alguma norma foi aplicada fora da vigência.
+136. Identifique possíveis alucinações na análise.
+137. Mostre quais resultados são fatos e quais são interpretações.
+138. Mostre quais informações você inferiu.
+139. Audite as recomendações antes de apresentá-las.
+
+12. Geração de relatórios
+
+140. Gere um relatório completo.
+141. Gere um relatório do mês de abril.
+142. Gere um relatório somente das frutas.
+143. Gere um relatório de diversidade.
+144. Gere um relatório de possíveis não conformidades.
+145. Gere um relatório nutricional.
+146. Gere um relatório comparando março e abril.
+147. Gere um relatório com problemas e recomendações.
+148. Gere um relatório executivo para o nutricionista.
+149. Inclua as evidências de cada conclusão.
+150. Inclua as limitações da análise.
+151. Separe conformidades, não conformidades, alertas e recomendações.
+
+13. Comando de análise geral automática
+
+152. SAFRA, faça uma análise completa dos cardápios disponíveis,
+     identifique automaticamente quais análises são aplicáveis, execute
+     somente os agentes necessários, audite os resultados e apresente os
+     achados, possíveis não conformidades, pontos de atenção, limitações
+     e recomendações fundamentadas.

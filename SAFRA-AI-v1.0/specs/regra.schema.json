@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "id",
+    "descricao",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "descricao": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "fonte": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

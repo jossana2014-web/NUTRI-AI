@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "arquivo",
+    "dias"
+  ],
+  "properties": {
+    "arquivo": {
+      "type": "string"
+    },
+    "escola": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "periodo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "faixa_etaria": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "turno": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "dias": {
+      "type": "array"
+    }
+  }
+}

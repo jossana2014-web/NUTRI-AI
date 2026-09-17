@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "safra-ai"
+version = "1.1.0"
+description = "Framework experimental de apoio à análise de cardápios escolares."
+requires-python = ">=3.11"
+dependencies = [
+  "pypdf>=5.0.0",
+  "PyYAML>=6.0",
+  "jsonschema>=4.23"
+]
+
+[project.scripts]
+safra = "safra.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

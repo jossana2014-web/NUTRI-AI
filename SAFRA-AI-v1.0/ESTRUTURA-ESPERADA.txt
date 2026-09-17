@@ -1,0 +1,19 @@
+PastaDeTrabalho
+|
++-- Cardapios
+|   +-- cardapio_01.pdf
+|   +-- cardapio_02.pdf
+|   `-- ...
+|
+`-- SAFRA-AI-v1.1-IDE-Agnostic
+    +-- AGENTS.md
+    +-- PROJECT.md
+    +-- agents
+    +-- skills
+    +-- specs
+    +-- rules
+    +-- knowledge
+    +-- data
+    +-- src
+    +-- adapters
+    `-- ...

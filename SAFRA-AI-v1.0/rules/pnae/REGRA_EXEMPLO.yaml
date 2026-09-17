@@ -1,0 +1,15 @@
+id: EXEMPLO_NAO_ATIVADO
+descricao: "Modelo de regra; não utilizar como norma válida."
+status: "draft"
+vigencia:
+  inicio: null
+  fim: null
+fonte:
+  norma: null
+  dispositivo: null
+aplica_se: {}
+criterio:
+  variavel: null
+  operador: null
+  valor: null
+resultado_falha: "NÃO VERIFICÁVEL"

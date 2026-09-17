@@ -1,0 +1,27 @@
+workspace:
+  root_dir: ".."
+  cardapios_dir: "../Cardápios"
+  auto_discovery: true
+  accepted_directory_names:
+    - "Cardápios"
+    - "Cardapios"
+    - "CARDÁPIOS"
+    - "CARDAPIOS"
+  accepted_extensions:
+    - ".pdf"
+    - ".png"
+    - ".jpg"
+    - ".jpeg"
+    - ".xlsx"
+    - ".csv"
+
+orchestration:
+  auto_route: true
+  audit_complex_analyses: true
+  preserve_originals: true
+
+output:
+  directory: "output"
+
+analysis:
+  unknown_message: "NÃO FOI POSSÍVEL VERIFICAR"
